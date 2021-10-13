@@ -1,5 +1,3 @@
-import java.util.*;
-
 // This is brute force solution
 
 public class Solution3 {
